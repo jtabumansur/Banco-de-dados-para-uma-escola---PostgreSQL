@@ -1,6 +1,8 @@
 # Banco-de-dados-para-uma-escola---PostgreSQL
 Modelagem de um sistema de banco de dados de uma escola e exemplos de consultas
 
+Programa desenvolvido na trilha de dados oferecido pela Lets Code.
+
 Os diagramas abaixo referem-se a modelagem de um sistema de banco de dados de uma escola. 
 A Figura 1 representa o modelo entidade-relacionamento (ER) simplificado, obtido a partir dos requisitos do problema. Assuma que esse processo foi realizado em uma etapa anterior.
 ![Figura 1](https://user-images.githubusercontent.com/68875230/165408472-48142bf2-e025-4c92-9147-6db3dc764534.png)
@@ -8,7 +10,9 @@ A Figura 1 representa o modelo entidade-relacionamento (ER) simplificado, obtido
 Figura 1 - Modelo ER Escola
 Já a Figura 2 representa o modelo relacional, mapeado a partir do modelo ER da Figura 1. Note que o modelo relacional possui mais detalhes que o modelo ER.
 
+![Figura 2](https://user-images.githubusercontent.com/68875230/165408770-c1a17768-577b-4436-a13c-5168de6c5ef6.png)
 Figura 2- Modelo Relacional Escola
+
 Considerando os diagramas como referência, pede-se:
 Implementar um script SQL chamado ‘escola.sql’ com os comandos de criação do banco de dados escola. Mais especificamente, o script deverá:
 Criar um banco de dados vazio chamado escola.
