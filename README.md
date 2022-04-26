@@ -3,6 +3,7 @@ Modelagem de um sistema de banco de dados de uma escola e exemplos de consultas
 
 Os diagramas abaixo referem-se a modelagem de um sistema de banco de dados de uma escola. 
 A Figura 1 representa o modelo entidade-relacionamento (ER) simplificado, obtido a partir dos requisitos do problema. Assuma que esse processo foi realizado em uma etapa anterior.
+![Figura 1](https://user-images.githubusercontent.com/68875230/165408472-48142bf2-e025-4c92-9147-6db3dc764534.png)
 
 Figura 1 - Modelo ER Escola
 Já a Figura 2 representa o modelo relacional, mapeado a partir do modelo ER da Figura 1. Note que o modelo relacional possui mais detalhes que o modelo ER.
